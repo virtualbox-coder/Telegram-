@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for telegram-app-box on 2026-11-11T05:42:01Z
+# fly.toml app configuration file generated for telegram-codebox on 2026-11-11T05:55:02Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'telegram-app-box'
+app = 'telegram-codebox'
 primary_region = 'ams'
 
 [build]
